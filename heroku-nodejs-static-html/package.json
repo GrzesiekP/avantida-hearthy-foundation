@@ -1,0 +1,9 @@
+{
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
