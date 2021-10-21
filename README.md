@@ -10,8 +10,5 @@ choco install vscode -y;
 choco install nodejs -y;
 choco install git -y;
 choco install winscp -y;
+choco install brave -v
 ```
-
-## Może nie działać
-
-`choco install brave -y;`
